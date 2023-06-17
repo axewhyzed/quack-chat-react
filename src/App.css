@@ -1,0 +1,131 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
+.App {
+  display: flex;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+  flex-direction: column;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  background: linear-gradient(to bottom, #ffffff, #f8f7f2);
+}
+
+.section-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  height: 90vh;
+  background-color: #fff;
+  border-radius: 10px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  animation: fadeIn 0.5s ease-out;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #1f2937;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.heading {
+  color: #fff;
+  font-size: 2rem;
+  padding-right: 10px;
+}
+
+.navbar a {
+  color: #fff;
+  text-decoration: none;
+  font-size: 1rem;
+  padding: 8px 16px;
+  border-radius: 4px;
+  transition: background-color 0.3s ease;
+}
+
+.navbar a:hover {
+  background-color: rgba(255, 255, 255, 0.2);
+}
+
+.app-header {
+  text-align: center;
+  background-color: #3b5998;
+  color: white;
+  width: 100%;
+}
+
+.app-container {
+  margin-top: 50px;
+}
+
+.room {
+  display: flex;
+  flex-direction: column;
+}
+
+.room label {
+  text-align: center;
+  font-size: 25px;
+  margin-bottom: 20px;
+}
+
+.room input {
+  width: 200px;
+  height: 30px;
+  border: 2px solid #3b5998;
+  border-radius: 6px;
+  padding-left: 5px;
+  font-size: 20px;
+  text-align: center;
+  margin: 5px;
+}
+.room button {
+  width: 210px;
+  height: 40px;
+  border: none;
+  border-radius: 6px;
+  padding-left: 5px;
+  font-size: 20px;
+  text-align: center;
+  margin: 5px;
+  background-color: #3b5998;
+  color: white;
+  cursor: pointer;
+}
+
+.sign-out {
+  margin-top: 50px;
+}
+
+.home-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-top: 50px;
+}
+
+.home-duck {
+  width: 200px;
+  height: auto;
+}
+
+.home-heading {
+  font-size: 28px;
+  margin-top: 20px;
+  color: #1f2937;
+}
+
+.home-description {
+  font-size: 18px;
+  margin-top: 10px;
+  color: #616e7c;
+  max-width: 300px;
+  text-align: center;
+}
