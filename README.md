@@ -37,6 +37,15 @@ To run the Quack Chat application locally, follow these steps:
   - `App.js`: Main application component.
   - `index.js`: Entry point of the application.
 
+## Screenshots
+
+![Home Page](images/homepage.gif)
+<br>
+![Chat Page](images/chat-page.png)
+<br>
+<h5>Demo</h5>
+![Chat App Video)(images/chat-app-video.gif)
+
 ## Deployment
 
 To deploy the Quack Chat application to a live environment, you can use various hosting platforms such as Netlify, Vercel, or Firebase Hosting. Follow the deployment instructions provided by your chosen platform to publish the application.
