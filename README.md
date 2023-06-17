@@ -2,7 +2,7 @@
 
 Quack Chat is a real-time chat application where users can connect with friends and start conversations. It provides a simple and intuitive interface for seamless communication.
 
-![Quack Chat](public/ducklogo.png)
+<img src="public/ducklogo.png" alt="DuckLogo" height="60px">
 
 ## Features
 
