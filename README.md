@@ -47,9 +47,7 @@ To run the Quack Chat application locally, follow these steps:
 
 <br>
 
-<h5>Demo</h5>
-
-<br>
+## Demo
 
 ![Chat App Video](images/chat-app-video.gif)
 
