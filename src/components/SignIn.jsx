@@ -1,4 +1,5 @@
 import React from 'react'
+import GoogleButton from 'react-google-button'
 import {auth} from '../firebase'
 import {GoogleAuthProvider, signInWithRedirect} from 'firebase/auth'
 
@@ -14,7 +15,7 @@ const googleSignIn = () => {
 const SignIn = () => {
   return (
     <div className={style.wrapper}>
-        <button onClick={googleSignIn} style={{borderRadius: "10px", backgroundColor: "white", padding: "10px"}}>Sign In with Google</button>
+        <GoogleButton onClick={googleSignIn} />
     </div>
   )
 }
