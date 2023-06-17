@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/quack-chat-react/static/css/main.b2132ae1.css",
-    "main.js": "/quack-chat-react/static/js/main.a5112a02.js",
+    "main.js": "/quack-chat-react/static/js/main.e19b2a62.js",
     "static/media/home-duck.gif": "/quack-chat-react/static/media/home-duck.d4939d33392ae0cb755a.gif",
     "index.html": "/quack-chat-react/index.html",
     "main.b2132ae1.css.map": "/quack-chat-react/static/css/main.b2132ae1.css.map",
-    "main.a5112a02.js.map": "/quack-chat-react/static/js/main.a5112a02.js.map"
+    "main.e19b2a62.js.map": "/quack-chat-react/static/js/main.e19b2a62.js.map"
   },
   "entrypoints": [
     "static/css/main.b2132ae1.css",
-    "static/js/main.a5112a02.js"
+    "static/js/main.e19b2a62.js"
   ]
 }
